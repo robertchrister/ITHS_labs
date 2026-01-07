@@ -1,2 +1,5 @@
 # ITHS_labs
-laborations made in ITHS
+Laborations made at ITHS
+## Lesson 7
+- Python API Client  
+  See: lesson7-api-client/
